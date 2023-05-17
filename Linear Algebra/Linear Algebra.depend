@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1622230980 source:c:\program files\codeblocks\codes\linear algebra\main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+
